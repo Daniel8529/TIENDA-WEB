@@ -1,0 +1,14 @@
+.id{
+    display: flex;
+    justify-content: inherit;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    height: 80px;
+    width: auto;
+   background-color: black;
+   padding: 25px;
+   
+   
+}

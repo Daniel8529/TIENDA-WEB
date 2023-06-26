@@ -1,0 +1,27 @@
+.contener-imgs{
+    background-color: blue;
+    width: auto;
+    height: 900px;
+    padding: 40px;
+    display: flex;
+    
+    
+    
+   
+  }
+  .card3{
+    width: 18rem;
+    height: 350px;
+    margin-left: 300px;
+    /* margin-top: 100px; */
+    
+  
+}
+
+.contener-checkbox{
+  background-color: red;
+  width: 500px;
+  height: 400px;
+  margin-left: 400px;
+  position: absolute;
+}
