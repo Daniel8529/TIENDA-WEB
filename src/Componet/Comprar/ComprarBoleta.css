@@ -1,0 +1,20 @@
+.contener-imgs{
+    background-color: #D8D8D8 ;
+    width: auto;
+    height: 900px;
+    padding: 40px;
+    display: flex;
+    
+    justify-content: center;
+    
+   
+  }
+ 
+
+.contener-checkbox{
+  background-color: red;
+  width: 500px;
+  height: 400px;
+  margin-left: 400px;
+  position: absolute;
+}

@@ -1,0 +1,21 @@
+.contenedorcheckbox{
+    background-color: #1ABC9C ;
+    width: 500px;
+    height: 600px;
+    
+    /* height: auto; */
+    /* margin-left: 100px; */
+  
+}
+.form-check{
+    padding: 20px;
+}
+.b{
+    background-color: blue;
+    color: white;
+}
+.b:hover{
+    background-color: red;
+    color: blue;
+}
+
